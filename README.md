@@ -8,3 +8,5 @@ The class was streamed and recorded here:
 
 https://finaisummit.com/Masterclass1/
 
+There were three classes: two focused on theory and the third on implementing PPO-KL to reduce toxicity in the summary task.
+
