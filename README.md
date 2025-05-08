@@ -4,7 +4,7 @@
 
 https://finaisummit.com/
 
-The class was streamed and recorded here:
+The Master class was streamed and recorded here:
 
 https://finaisummit.com/Masterclass1/
 
